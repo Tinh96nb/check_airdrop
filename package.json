@@ -1,0 +1,17 @@
+{
+  "name": "checking-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "9.0.0",
+    "knex": "0.95.4",
+    "mysql": "2.18.1",
+    "node-telegram-bot-api": "0.53.0",
+    "twitter-api-v2": "1.1.0"
+  },
+  "scripts": {
+  },
+  "author": "phamductinhkma@gmail.com",
+  "license": "ISC"
+}
